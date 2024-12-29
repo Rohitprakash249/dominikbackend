@@ -2,7 +2,7 @@
   "name": "dominobackend",
   "version": "1.0.0",
   "description": "restapi to handle back end request sent from dominos front end",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
